@@ -1,0 +1,53 @@
+Phishing Email Example.
+
+From: PayPal Support <paypa1-alerts@secure-paypal.com>
+Subject: Your Account Will Be Suspended!
+Body:
+Dear User,
+
+We have noticed suspicious activity on your account.
+To ensure your safety, please verify your information immediately or your account will be suspended.
+
+Click the link below to restore access:
+Verify my account
+
+Failure to respond within 24 hours will result in permanent account suspension.
+
+Regards,
+PayPal Security Team
+
+Attachment: SecureForm.exe
+
+STEPS TO FIND THE PHISHING EMAIL AND PHSIHING INDECATORS IN EXAMPLE EMAIL.
+
+Examine The Sender's Email Address.
+  
+  In the above sample mail the PayPal Support the spelling of the PayPal is different in the mail it is Addressed as paypa1 instead of l the attacker written as 1 
+  this would be a phishing mail because the they have spoofing the email address of PayPal company to gain trust.
+
+2. Check Email Header.
+  
+  In this portion, I have checked email header I gone through the email client i have coped the header and pasted in the Email header analyzer it given as phishing mail it means 
+  it is not a real header.
+
+3. Identify Suspicious links or Attachments.
+   
+   In this email verify my account is the suspicious link and one .exe file is also present it may consist of any malware if we click on there are many chances to get hacked don't click
+   unknown links and files.
+
+4. Urgent Type And Threatening Language Message.
+
+   In this mail consist of Urgent Type of message "Failure to respond within 24 hours will result in permanent account suspension" to manipulate us and make us to those link to steal
+   the information.
+
+5. Mismatched URL link's in email.
+  
+   In this mail this is a mismatch link "Verify my account" this is not a actual PayPal page it is a spoofed page to steal information.
+
+6. Checking Grammar Errors or Spellings
+   
+   In this mail there is a awkward phrases like "please verify your information immediately or your account will be suspended" to tens us.
+ 
+
+  
+       
